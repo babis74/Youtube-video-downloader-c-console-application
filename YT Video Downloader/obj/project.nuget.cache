@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "twoPStRg7fwYSEM12beUn0hylqfVHhqlvm5KTd8wT8a5Aa0Eu9rw9h+Fm9HtuCpWzrQT12zdvX2hnZXVJ2T+Sg==",
+  "success": true,
+  "projectFilePath": "/home/babis/Επιφάνεια εργασίας/YT Video Downloader/YT Video Downloader.csproj",
+  "expectedPackageFiles": [
+    "/home/babis/.nuget/packages/anglesharp/1.0.4/anglesharp.1.0.4.nupkg.sha512",
+    "/home/babis/.nuget/packages/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg.sha512",
+    "/home/babis/.nuget/packages/youtubeexplode/6.3.6/youtubeexplode.6.3.6.nupkg.sha512",
+    "/home/babis/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/obj/Debug/net7.0/YT Video Downloader.csproj.AssemblyReference.cache
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/obj/Debug/net7.0/YT Video Downloader.GeneratedMSBuildEditorConfig.editorconfig
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/obj/Debug/net7.0/YT Video Downloader.AssemblyInfoInputs.cache
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/obj/Debug/net7.0/YT Video Downloader.AssemblyInfo.cs
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/obj/Debug/net7.0/YT Video Downloader.csproj.CoreCompileInputs.cache
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/bin/Debug/net7.0/YT Video Downloader
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/bin/Debug/net7.0/YT Video Downloader.deps.json
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/bin/Debug/net7.0/YT Video Downloader.runtimeconfig.json
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/bin/Debug/net7.0/YT Video Downloader.dll
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/bin/Debug/net7.0/YT Video Downloader.pdb
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/bin/Debug/net7.0/AngleSharp.dll
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/bin/Debug/net7.0/YoutubeExplode.dll
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/obj/Debug/net7.0/YT Video Downloader.csproj.CopyComplete
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/obj/Debug/net7.0/YT Video Downloader.dll
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/obj/Debug/net7.0/refint/YT Video Downloader.dll
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/obj/Debug/net7.0/YT Video Downloader.pdb
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/obj/Debug/net7.0/YT Video Downloader.genruntimeconfig.cache
+/home/babis/Επιφάνεια εργασίας/YT Video Downloader/obj/Debug/net7.0/ref/YT Video Downloader.dll
